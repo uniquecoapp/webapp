@@ -1,0 +1,70 @@
+{
+    "listOfMessages": {
+        "MessageID1": {
+            "sender": "sender",
+            "recieverID": "schoolID",
+            "messages": {
+                "permessageID1": {
+                    "message": "Hello!",
+                    "datatime": 1231231
+                },
+                "permessageID2": {
+                    "message": "Hello!",
+                    "datatime": 1231231
+                },
+                "permessageID3": {
+                    "message": "Hello!",
+                    "datatime": 1231231
+                },
+                "permessageID4": {
+                    "message": "Hello!",
+                    "datatime": 1231231
+                }
+            }
+        },
+        "MessageID2": {
+            "sender": "sender",
+            "recieverID": "schoolID",
+            "messages": {
+                "permessageID1": {
+                    "message": "Hello!",
+                    "datatime": 1231231
+                },
+                "permessageID2": {
+                    "message": "Hello!",
+                    "datatime": 1231231
+                },
+                "permessageID3": {
+                    "message": "Hello!",
+                    "datatime": 1231231
+                },
+                "permessageID4": {
+                    "message": "Hello!",
+                    "datatime": 1231231
+                }
+            }
+        },
+        "MessageID3": {
+            "sender": "sender",
+            "recieverID": "schoolID",
+            "messages": {
+                "permessageID1": {
+                    "message": "Hello!",
+                    "datatime": 1231231
+                },
+                "permessageID2": {
+                    "message": "Hello!",
+                    "datatime": 1231231
+                },
+                "permessageID3": {
+                    "message": "Hello!",
+                    "datatime": 1231231
+                },
+                "permessageID4": {
+                    "message": "Hello!",
+                    "datatime": 1231231
+                }
+            }
+        }
+    }
+}

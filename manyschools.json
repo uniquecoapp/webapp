@@ -1,0 +1,278 @@
+{
+    "ID1": {
+        "Name": "Manuel S. Enverga University Foundation Lucena City",
+        "CreatedBY": "Juan Dela Cruz",
+        "DateCreated": "August 29, 1993",
+        "SchoolPic": "../assets/pexels-photo-207692.jpeg",
+        "Website": "www.google.com",
+        "Contacts": [
+            "09751160135",
+            "091234567890"
+        ],
+        "Tagline": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..",
+        "Address": {
+            "Lot": "Blk 1 Lot 52 Bf Topman Homes",
+            "Barangay": "Molino 2",
+            "City": "Bacoor",
+            "Country": "Philippines",
+            "ZipCode": "4102"
+        },
+        "SchoolDetails": {
+            "AboutSchool": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "Vission": "In 2030, the Manuel S. Enverga University Foundation is a globally competitive university with high concentrations of talent, excellent teaching environment, rigorous program quality, sufficient resources, and a culture of collaboration.",
+            "Mission": "The University is a private non-stock non-profit non-sectarian educational foundation with a three-fold function - instruction, research, and community service - offering responsive and alternative programs supportive of national development and standards of global excellence.",
+            "Goal": "MSEUF shall produce graduates who have research-based knowledge, leadership and management skills, and professionalism."
+        },
+        "ProgramsOffered": {
+            "randomID1": {
+                "Field": "IT, Computer Science & Programming",
+                "Programs": [
+                    "BS in Computer Science",
+                    "BS in Information Technology",
+                    "BS in Entertainment and Multimedia Computing"
+                ],
+                "MinTuition": 20000,
+                "MaxTuition": 40000
+            },
+            "randomID2": {
+                "Field": "IT, Computer Science & Programming",
+                "Programs": [
+                    "BS in Computer Science",
+                    "BS in Information Technology",
+                    "BS in Entertainment and Multimedia Computing"
+                ],
+                "MinTuition": 20000,
+                "MaxTuition": 40000
+            },
+            "randomID3": {
+                "Field": "IT, Computer Science & Programming",
+                "Programs": [
+                    "BS in Computer Science",
+                    "BS in Information Technology",
+                    "BS in Entertainment and Multimedia Computing"
+                ],
+                "MinTuition": 20000,
+                "MaxTuition": 40000
+            }
+        },
+        "SchoolPerformance": {
+            "Ranking": 10,
+            "BoardRankingPerformance": "90%",
+            "Others": [
+                "Center of Excellence (Criminology)",
+                "Center of Development (Information Technology)"
+            ]
+        },
+        "AdmissionRequirements": {
+            "Deadline": "January 1, 2022",
+            "Requirements": {
+                "Freshmen": [
+                    "Photocopy of Form 138 (High School Card)",
+                    "National Career Assessment Examination (NCAE) Result",
+                    "National Career Assessment Examination (NCAE) Result",
+                    "Photocopy of Birth Certificate",
+                    "Certificate of Good Moral Character (Photocopy)"
+                ],
+                "Cross Enrolless": [
+                    "Photocopy of permit to cross enroll from the Registrar of the school they are regularly enrolled",
+                    "Photocopy of Certificate of Good Moral Character"
+                ],
+                "Second Course Enrollees": [
+                    "Photocopy of permit to cross enroll from the Registrar of the school they are regularly enrolled",
+                    "Photocopy of Certificate of Good Moral Character"
+                ]
+            }
+        },
+        "Scholarship": [
+            "Academis Scholarship",
+            "Study Grants",
+            "Study Grants with Sponsoring Institution",
+            "Service Grants",
+            "Mandated Academic Scholarship Grants"
+        ]
+    },
+    "ID2": {
+        "Name": "Manuel S. Enverga University Foundation Lucena City",
+        "CreatedBY": "Juan Dela Cruz",
+        "DateCreated": "August 29, 1993",
+        "SchoolPic": "../assets/pexels-photo-207692.jpeg",
+        "Website": "www.google.com",
+        "Contacts": [
+            "09751160135",
+            "091234567890"
+        ],
+        "Tagline": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..",
+        "Address": {
+            "Lot": "Blk 1 Lot 52 Bf Topman Homes",
+            "Barangay": "Molino 2",
+            "City": "Bacoor",
+            "Country": "Philippines",
+            "ZipCode": "4102"
+        },
+        "SchoolDetails": {
+            "AboutSchool": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "Vission": "In 2030, the Manuel S. Enverga University Foundation is a globally competitive university with high concentrations of talent, excellent teaching environment, rigorous program quality, sufficient resources, and a culture of collaboration.",
+            "Mission": "The University is a private non-stock non-profit non-sectarian educational foundation with a three-fold function - instruction, research, and community service - offering responsive and alternative programs supportive of national development and standards of global excellence.",
+            "Goal": "MSEUF shall produce graduates who have research-based knowledge, leadership and management skills, and professionalism."
+        },
+        "ProgramsOffered": {
+            "randomID1": {
+                "Field": "IT, Computer Science & Programming",
+                "Programs": [
+                    "BS in Computer Science",
+                    "BS in Information Technology",
+                    "BS in Entertainment and Multimedia Computing"
+                ],
+                "MinTuition": 20000,
+                "MaxTuition": 40000
+            },
+            "randomID2": {
+                "Field": "IT, Computer Science & Programming",
+                "Programs": [
+                    "BS in Computer Science",
+                    "BS in Information Technology",
+                    "BS in Entertainment and Multimedia Computing"
+                ],
+                "MinTuition": 20000,
+                "MaxTuition": 40000
+            },
+            "randomID3": {
+                "Field": "IT, Computer Science & Programming",
+                "Programs": [
+                    "BS in Computer Science",
+                    "BS in Information Technology",
+                    "BS in Entertainment and Multimedia Computing"
+                ],
+                "MinTuition": 20000,
+                "MaxTuition": 40000
+            }
+        },
+        "SchoolPerformance": {
+            "Ranking": 10,
+            "BoardRankingPerformance": "90%",
+            "Others": [
+                "Center of Excellence (Criminology)",
+                "Center of Development (Information Technology)"
+            ]
+        },
+        "AdmissionRequirements": {
+            "Deadline": "January 1, 2022",
+            "Requirements": {
+                "Freshmen": [
+                    "Photocopy of Form 138 (High School Card)",
+                    "National Career Assessment Examination (NCAE) Result",
+                    "National Career Assessment Examination (NCAE) Result",
+                    "Photocopy of Birth Certificate",
+                    "Certificate of Good Moral Character (Photocopy)"
+                ],
+                "Cross Enrolless": [
+                    "Photocopy of permit to cross enroll from the Registrar of the school they are regularly enrolled",
+                    "Photocopy of Certificate of Good Moral Character"
+                ],
+                "Second Course Enrollees": [
+                    "Photocopy of permit to cross enroll from the Registrar of the school they are regularly enrolled",
+                    "Photocopy of Certificate of Good Moral Character"
+                ]
+            }
+        },
+        "Scholarship": [
+            "Academis Scholarship",
+            "Study Grants",
+            "Study Grants with Sponsoring Institution",
+            "Service Grants",
+            "Mandated Academic Scholarship Grants"
+        ]
+    },
+    "ID3": {
+        "Name": "Manuel S. Enverga University Foundation Lucena City",
+        "CreatedBY": "Juan Dela Cruz",
+        "DateCreated": "August 29, 1993",
+        "SchoolPic": "../assets/pexels-photo-207692.jpeg",
+        "Website": "www.google.com",
+        "Contacts": [
+            "09751160135",
+            "091234567890"
+        ],
+        "Tagline": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..",
+        "Address": {
+            "Lot": "Blk 1 Lot 52 Bf Topman Homes",
+            "Barangay": "Molino 2",
+            "City": "Bacoor",
+            "Country": "Philippines",
+            "ZipCode": "4102"
+        },
+        "SchoolDetails": {
+            "AboutSchool": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "Vission": "In 2030, the Manuel S. Enverga University Foundation is a globally competitive university with high concentrations of talent, excellent teaching environment, rigorous program quality, sufficient resources, and a culture of collaboration.",
+            "Mission": "The University is a private non-stock non-profit non-sectarian educational foundation with a three-fold function - instruction, research, and community service - offering responsive and alternative programs supportive of national development and standards of global excellence.",
+            "Goal": "MSEUF shall produce graduates who have research-based knowledge, leadership and management skills, and professionalism."
+        },
+        "ProgramsOffered": {
+            "randomID1": {
+                "Field": "IT, Computer Science & Programming",
+                "Programs": [
+                    "BS in Computer Science",
+                    "BS in Information Technology",
+                    "BS in Entertainment and Multimedia Computing"
+                ],
+                "MinTuition": 20000,
+                "MaxTuition": 40000
+            },
+            "randomID2": {
+                "Field": "IT, Computer Science & Programming",
+                "Programs": [
+                    "BS in Computer Science",
+                    "BS in Information Technology",
+                    "BS in Entertainment and Multimedia Computing"
+                ],
+                "MinTuition": 20000,
+                "MaxTuition": 40000
+            },
+            "randomID3": {
+                "Field": "IT, Computer Science & Programming",
+                "Programs": [
+                    "BS in Computer Science",
+                    "BS in Information Technology",
+                    "BS in Entertainment and Multimedia Computing"
+                ],
+                "MinTuition": 20000,
+                "MaxTuition": 40000
+            }
+        },
+        "SchoolPerformance": {
+            "Ranking": 10,
+            "BoardRankingPerformance": "90%",
+            "Others": [
+                "Center of Excellence (Criminology)",
+                "Center of Development (Information Technology)"
+            ]
+        },
+        "AdmissionRequirements": {
+            "Deadline": "January 1, 2022",
+            "Requirements": {
+                "Freshmen": [
+                    "Photocopy of Form 138 (High School Card)",
+                    "National Career Assessment Examination (NCAE) Result",
+                    "National Career Assessment Examination (NCAE) Result",
+                    "Photocopy of Birth Certificate",
+                    "Certificate of Good Moral Character (Photocopy)"
+                ],
+                "Cross Enrolless": [
+                    "Photocopy of permit to cross enroll from the Registrar of the school they are regularly enrolled",
+                    "Photocopy of Certificate of Good Moral Character"
+                ],
+                "Second Course Enrollees": [
+                    "Photocopy of permit to cross enroll from the Registrar of the school they are regularly enrolled",
+                    "Photocopy of Certificate of Good Moral Character"
+                ]
+            }
+        },
+        "Scholarship": [
+            "Academis Scholarship",
+            "Study Grants",
+            "Study Grants with Sponsoring Institution",
+            "Service Grants",
+            "Mandated Academic Scholarship Grants"
+        ]
+    }
+}
