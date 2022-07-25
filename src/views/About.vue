@@ -29,7 +29,7 @@
               <div class="row gx-5" style="margin-top: 60px">
                 <div class="col"><img src="../assets/about1.jpg" alt="" /></div>
                 <div class="col order-5">
-                  <h2><strong>UniQueCo Finder</strong></h2>
+                  <h2><strong>UniQueCo App Finder</strong></h2>
                   <p>
                     The main purpose of the system is to help prospective
                     college students on finding their ideal university in Quezon
