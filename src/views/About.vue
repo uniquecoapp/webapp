@@ -60,10 +60,7 @@
                 <div class="p-3 text-left">
                   <h3><strong>Corpuz, Gulliver S.</strong></h3>
                   <p>
-                    Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut
-                    odit aut fugit, sed quia consequuntur magni dolores eos qui
-                    ratione voluptatem sequi nesciunt. Neque porro quisquam est,
-                    qui dolorem.
+                    Front-end Developer tryyyyyyyyyyyyyyyyyyyy2
                   </p>
                 </div>
               </div>
@@ -79,16 +76,14 @@
                 <div class="p-3 text-right">
                   <h3><strong>Deleon, Shan Michael</strong></h3>
                   <p>
-                    Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut
-                    odit aut fugit, sed quia consequuntur magni dolores eos qui
-                    ratione voluptatem sequi nesciunt. Neque porro quisquam est,
-                    qui dolorem.
+                    Back-end Developer
                   </p>
                 </div>
               </div>
             </div>
             <div class="row gx-5 spacer">
               <div class="col center">
+                
                 <div class="p-3 text-left">
                   <h3><strong>Nepomuceno, Marian Z.</strong></h3>
                   <p>
